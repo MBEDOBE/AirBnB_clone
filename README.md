@@ -5,8 +5,5 @@
 
 ## Description
 
-This project attempts to clone the the AirBnB application and website. It will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website
+This project attempts to clone the the AirBnB application and website. It will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website.
 
-
-
-```
