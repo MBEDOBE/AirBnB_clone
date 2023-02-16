@@ -9,6 +9,6 @@ This project attempts to clone the the AirBnB application and website. It will c
 
 ## how to start
 
-It can be start by running the executable "console.py", which is run from the root dirctory of the this repository.
-it is both interactive and non-interactive(in the mode of printing the command promt)
+It can be started by running the executable "console.py", which is run from the root directory of this repository.
+it is both interactive and non-interactive(in the mode of printing the command prompt)
 
